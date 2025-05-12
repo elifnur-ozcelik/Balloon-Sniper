@@ -3,7 +3,7 @@
 **Created by: Elifnur Ozcelik**
 
 ## Description
-This project is developed using OpenGL and the GLUT library. It features a festival-themed shooting game where the player controls a horizontally movable cannon to shoot balloons within a 30-second time limit. The balloons are arranged in two rows that move in opposite directions to increase the challenge.
+This project is developed using OpenGL and the GLUT library. It features a festival-themed shooting game where the player controls a horizontally movable shooter to shoot balloons within a 30-second time limit. The balloons are arranged in two rows that move in opposite directions to increase the challenge.
 
 The goal is to hit at least 20 balloons before time runs out. A maximum of five balloons can appear on the screen at once, keeping the gameplay balanced. If the player reaches the target, a congratulatory message and a plush bunny appear on the screen as a reward.
 
