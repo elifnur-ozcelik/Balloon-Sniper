@@ -9,7 +9,7 @@ The goal is to hit at least 20 balloons before time runs out. A maximum of five 
 
 After each round, the score is printed to the terminal, and all previous scores are preserved for performance tracking.
 
-### Key Features:
+### Key Features
 - Each balloon is assigned a random color upon creation to enhance visual diversity during gameplay.  
 - The balloons are divided into two rows, with one row moving from left to right and the other from right to left, adding motion complexity.
 - A maximum of five balloons can appear on the screen simultaneously to maintain a consistent challenge level.
@@ -17,7 +17,7 @@ After each round, the score is printed to the terminal, and all previous scores 
 - After each game session, the player's score is printed to the terminal for immediate feedback.
 - All previous scores remain visible in the terminal, enabling players to monitor their progress and compare past performances.
 
-  ## Game Controls:
+## Game Controls
 - **LEFT arrow**: Move the shooter to the left.
 - **RIGHT arrow**: Move the shooter to the right.
 - **SPACE**: Fire a shot.
